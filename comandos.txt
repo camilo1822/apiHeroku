@@ -1,0 +1,11 @@
+/*proyecto nuevo*/
+ionic start name (blank, sideMenu,sidebar)
+/*Correr*/
+ionic serve --lab
+/*subir a ionicview*/
+ionic upload
+
+/*heroku*/
+$ git add .
+$ git commit -m "Nuevos cambios"
+$ git push heroku master
